@@ -5,4 +5,4 @@ OllyDbg (named after its author, Oleh Yuschuk) is an x86 debugger that emphasize
 </blockquote>
 
 Fork of a collection of plugins for Ollydbg from <a href="https://github.com/JackAston">Jack Aston</a>
-Fork number of another collection of plugins <a href="https://github.com/ItsaPerryBob/OllyDbg2plugins">here</a>
+Fork of another collection of plugins <a href="https://github.com/ItsaPerryBob/OllyDbg2plugins">here</a>
