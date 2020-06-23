@@ -1,2 +1,2 @@
-# Plugme-OllyDBGv1.0
-OllyDBG v1.0 Plugins
+# Ollydbg - Plugins
+Fork of a collection of plugins for Ollydbg from github.com/JackAston
